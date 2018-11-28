@@ -15,11 +15,9 @@ Implement the component that would retrieve the list of charges and respond with
 
 ### Required Documentation/Artifacts:
 
-Provide a document describing the implementation (github repository)
-
-Provide the code (github repository)
-
-Working prototype (script, tar/war, etc.)
+- Provide a document describing the implementation (github repository)
+- Provide the code (github repository)
+- Working prototype (script, tar/war, etc.)
 
 
 ### Optional Documentation/Artifacts:
@@ -29,10 +27,7 @@ Test cases used
 
 ### Evaluation Criteria:
 
-Clear description of the implementation
-
-The solution solves the problem
-
-Code works
-
-All documents/artifacts are provided
+- Clear description of the implementation
+- The solution solves the problem
+- Code works
+- All documents/artifacts are provided
