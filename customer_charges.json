@@ -14,12 +14,12 @@
     "3": {
 	"customerId": 1,
 	"partnerId": 1,
-	"amount": 5.01,
-	"approved": false
+	"amount": 0.10,
+	"approved": true
     },
     "4": {
 	"customerId": 1,
-	"partnerId": 2,
+	"partnerId": 1,
 	"amount": 10.93,
 	"approved": true
     },

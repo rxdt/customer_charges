@@ -1,22 +1,27 @@
 {
-    "Verizon": {
+    "verizon": {
 	"partnerId": 1,
 	"customerIds": [1, 2, 3]
     },
-    "Sprint": {
+    "sprint": {
 	"partnerId": 2,
 	"customerIds": [4, 5]
     },
-    "Sony": {
+    "sony": {
 	"partnerId": 3,
 	"customerIds": [6]
     },
-    "Sky": {
+    "sky": {
 	"partnerId": 4,
 	"customerIds": [7, 8, 9, 10]
     },
-    "Comcast": {
+    "comcast": {
 	"partnerId": 5,
 	"customerIds": []
+    },
+    "att": {
+	"partnerId": 6,
+	"customerIds": [11]
+
     }
 }

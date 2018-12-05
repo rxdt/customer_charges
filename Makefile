@@ -1,4 +1,5 @@
 export FLASK_APP=customer_charges.py
+export FLASK_DEBUG=1
 
 install:
 	virtualenv env  # create a virtual enviroment to contain your python depedencies
