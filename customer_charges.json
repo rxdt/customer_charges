@@ -6,96 +6,60 @@
 	"approved": true
     },
     "2": {
-	"customerId": 1,
-	"partnerId": 1,
-	"amount": 79.00,
-	"approved": true
-    },
-    "3": {
-	"customerId": 1,
-	"partnerId": 1,
-	"amount": 5.01,
-	"approved": false
-    },
-    "4": {
-	"customerId": 1,
-	"partnerId": 2,
-	"amount": 10.93,
-	"approved": true
-    },
-    "5": {
 	"customerId": 2,
 	"partnerId": 1,
 	"amount": 2.90,
 	"approved": true
     },
-    "6": {
-	"customerId": 2,
-	"partnerId": 1,
-	"amount": 11.45,
-	"approved": false
-    },
-    "7": {
+    "3": {
 	"customerId": 3,
 	"partnerId": 1,
 	"amount": 128.39,
 	"approved": true
     },
-    "8": {
-	"customerId": 4,
-	"partnerId": 2,
-	"amount": 0.01,
-	"approved": false
-    },
-    "9": {
+    "4": {
 	"customerId": 4,
 	"partnerId": 2,
 	"amount": 9.12,
 	"approved": true
     },
-    "10": {
+    "5": {
 	"customerId": 5,
 	"partnerId": 2,
 	"amount": 3.12,
 	"approved": true
     },
-    "11": {
+    "6": {
 	"customerId": 6,
 	"partnerId": 3,
 	"amount": 7.13,
 	"approved": true
     },
-    "12": {
-	"customerId": 6,
-	"partnerId": 3,
-	"amount": 34.29,
-	"approved": true
-    },
-    "13": {
+    "7": {
 	"customerId": 7,
 	"partnerId": 4,
 	"amount": 3.21,
 	"approved": true
     },
-    "14": {
+    "8": {
 	"customerId": 8,
 	"partnerId": 4,
 	"amount": 29.21,
 	"approved": true
     },
-    "15": {
+    "9": {
 	"customerId": 9,
 	"partnerId": 4,
 	"amount": 2.00,
 	"approved": true
     },
-    "16": {
+    "10": {
 	"customerId": 10,
 	"partnerId": 4,
 	"amount": 6.49,
 	"approved": true
     },
-    "17": {
+    "11": {
 	"customerId": 10,
 	"partnerId": 4,
 	"amount": 0.20,
