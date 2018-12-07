@@ -1,5 +1,4 @@
 from flask import Flask, jsonify, request
-import helpers
 import json
 
 from partner_controller import PartnersController
