@@ -9,7 +9,7 @@ Project goals are detailed in the [exercise description](exercise_description.md
 
 __Run the following commands to install dependencies and to start the app.__
 
-A Makefile contains make commands that install dependies and spin up the application.
+A Makefile contains 'make' commands that install dependencies and spin up the application.
 ```
 $ make install  # sudo may be required
 $ make run
@@ -17,7 +17,7 @@ $ make run
 Check that the application is running and healthy:
 ```
 $ curl http://127.0.0.1:5000/health
-all is wlll
+all is well
 ```
 
 __Run tests in the test suite.__
